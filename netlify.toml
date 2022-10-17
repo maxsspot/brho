@@ -10,6 +10,7 @@
         Cross-Origin-Resource-Policy = "same-origin"
         Cross-Origin-Embedder-Policy = "require-corp"
         Access-Control-Allow-Origin = "https://brendanhoeflich.netlify.app"
+        Public-Key-Pins = "pin-sha256="GRAH5Ex+kB4cCQi5gMU82urf+6kEgbVtzfCSkw55AGk=";max-age=15768000; includeSubDomains"
         
         Strict-Transport-Security = '''
             max-age=31557600;
