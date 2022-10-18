@@ -19,6 +19,13 @@
         '''
         
         Permissions-Policy = '''
+            ambient-light-sensor=(),
+            autoplay=().
+            display-capture=(),
+            gamepad=(),
+            publickey-credentials-get(),
+            payment=(),
+            usb=(),
             camera=(), 
             microphone=(), 
             geolocation=(),
