@@ -42,6 +42,7 @@
             script-src-attr 'none';
             script-src-elem 'none';
             worker-src 'none';
+            manifest-src 'none';
             navigate-to 'none';
             form-action 'none';
             media-src 'none';
