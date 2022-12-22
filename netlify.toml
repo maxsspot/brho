@@ -9,7 +9,7 @@
         Cross-Origin-Opener-Policy = "same-origin"
         Cross-Origin-Resource-Policy = "same-origin"
         Cross-Origin-Embedder-Policy = "require-corp"
-        Access-Control-Allow-Origin = "https://brendanhoeflich.netlify.app"
+        Access-Control-Allow-Origin = "https://brho.netlify.app"
         X-Permitted-Cross-Domain-Policies = "none"
         
         Strict-Transport-Security = '''
