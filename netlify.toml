@@ -38,10 +38,8 @@
         '''
         
         Content-Security-Policy = '''
-            script-src 'unsafe-inline';
+            script-src 'nonce-YXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5b2hoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhlZWVlZWVlZWVleXl5eXl5b2hhaGFoYWhhaGFoYWhhc2lsbGZlbGxhY3JhY2t0aGlz';
             base-uri 'none';
-            script-src-attr 'none';
-            script-src-elem 'none';
             worker-src 'none';
             manifest-src 'none';
             navigate-to 'none';
