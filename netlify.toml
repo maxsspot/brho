@@ -40,7 +40,7 @@
             script-src 'nonce-YXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5b2hoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhlZWVlZWVlZWVleXl5eXl5b2hhaGFoYWhhaGFoYWhhc2lsbGZlbGxhY3JhY2t0aGlz';
             script-src-attr 'none';
             script-src-elem 'nonce-YXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5b2hoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhlZWVlZWVlZWVleXl5eXl5b2hhaGFoYWhhaGFoYWhhc2lsbGZlbGxhY3JhY2t0aGlz';
-            style-src 'nonce-aG93YXJleW91ZG9pbmd0aGlzZGF5' 'nonce-YXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5b2hoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhlZWVlZWVlZWVleXl5eXl5b2hhaGFoYWhhaGFoYWhhc2lsbGZlbGxhY3JhY2t0aGlz';
+            style-src 'nonce-aG93YXJleW91ZG9pbmd0aGlzZGF5' 'nonce-aGV5dGhlcmVob3dhcmV5b3Vkb2luZ3RoaXNtZXNzYWdlaXNicm91Z2h0dG95b3VieWFsZXh6aGFuZ2Jyb2xpa2V3aHl0aGVoZWxrc2tmYW5vc3Vmc3VhaWJlc3Zp';
             base-uri 'none';
             worker-src 'none';
             manifest-src 'none';
