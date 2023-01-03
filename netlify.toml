@@ -20,7 +20,7 @@
         
         Permissions-Policy = '''
             ambient-light-sensor=(),
-            autoplay=().
+            autoplay=(),
             display-capture=(),
             gamepad=(),
             payment=(),
