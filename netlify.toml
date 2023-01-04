@@ -50,6 +50,7 @@
             object-src 'none';
             frame-src 'none';
             img-src https://brho.netlify.app/mammot.png https://brho.netlify.app/mischief.png;
+            trusted-types 'none';
             
             require-trusted-types-for 'script';
         '''
