@@ -37,20 +37,10 @@
         '''
         
         Content-Security-Policy = '''
+            default-src 'none';
             script-src 'nonce-YXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5b2hoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhlZWVlZWVlZWVleXl5eXl5b2hhaGFoYWhhaGFoYWhhc2lsbGZlbGxhY3JhY2t0aGlz';
-            script-src-attr 'none';
             style-src https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap 'nonce-aGV5dGhlcmVob3dhcmV5b3Vkb2luZ3RoaXNtZXNzYWdlaXNicm91Z2h0dG95b3VieWFsZXh6aGFuZ2Jyb2xpa2V3aHl0aGVoZWxrc2tmYW5vc3Vmc3VhaWJlc3Zp';
-            style-src-attr 'none';
-            base-uri 'none';
-            worker-src 'none';
-            manifest-src 'none';
-            navigate-to 'none';
-            form-action 'none';
-            media-src 'none';
-            object-src 'none';
-            frame-src 'none';
             img-src https://brho.netlify.app/mammot.png https://brho.netlify.app/mischief.png;
-            trusted-types 'none';
             
             require-trusted-types-for 'script';
         '''
