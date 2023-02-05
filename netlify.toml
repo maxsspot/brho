@@ -39,9 +39,9 @@
         Content-Security-Policy = '''
             default-src 'none';
             script-src 'nonce-YXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5b2hoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhoaGhlZWVlZWVlZWVleXl5eXl5b2hhaGFoYWhhaGFoYWhhc2lsbGZlbGxhY3JhY2t0aGlz';
-            style-src https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap 'nonce-aGV5dGhlcmVob3dhcmV5b3Vkb2luZ3RoaXNtZXNzYWdlaXNicm91Z2h0dG95b3VieWFsZXh6aGFuZ2Jyb2xpa2V3aHl0aGVoZWxrc2tmYW5vc3Vmc3VhaWJlc3Zp';
+            style-src 'nonce-aGV5dGhlcmVob3dhcmV5b3Vkb2luZ3RoaXNtZXNzYWdlaXNicm91Z2h0dG95b3VieWFsZXh6aGFuZ2Jyb2xpa2V3aHl0aGVoZWxrc2tmYW5vc3Vmc3VhaWJlc3Zp';
             img-src https://brho.netlify.app/mammot.png https://brho.netlify.app/mischief.png;
-            font-src https://fonts.googleapis.com/css2?family=Unbounded:wght@200&display=swap;
+            font-src https://fonts.gstatic.com/s/unbounded/v3/Yq6F-LOTXCb04q32xlpat-6uR42XTqtG65jx44fNgc6L.woff2;
             
             require-trusted-types-for 'script';
         '''
